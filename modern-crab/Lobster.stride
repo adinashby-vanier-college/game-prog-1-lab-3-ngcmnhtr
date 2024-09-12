@@ -47,7 +47,7 @@
                         <variable type="World" type-java="World" name="world" value="getWorld()" value-java="getWorld()" enable="true"/>
                         <call expression="world.removeObject(crab)" expression-java="world.removeObject(crab)" enable="true"/>
                         <call expression="Greenfoot.playSound(&quot;zombiehit.wav&quot;)" expression-java="Greenfoot.playSound(&quot;zombiehit.wav&quot;)" enable="true"/>
-                        <call expression="world.setBackground(&quot;gameover(2).jpeg&quot;)" expression-java="world.setBackground(&quot;gameover(2).jpeg&quot;)" enable="true"/>
+                        <call expression="world.setBackground(&quot;gameover (2).jpeg&quot;)" expression-java="world.setBackground(&quot;gameover (2).jpeg&quot;)" enable="true"/>
                         <call expression="Greenfoot.stop()" expression-java="Greenfoot.stop()" enable="true"/>
                     </ifStatements>
                 </if>

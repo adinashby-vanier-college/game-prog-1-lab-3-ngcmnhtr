@@ -42,7 +42,7 @@ public class Lobster extends Actor
             World world = getWorld();
             world.removeObject(crab);
             Greenfoot.playSound("zombiehit.wav");
-            world.setBackground("gameover(2).jpeg");
+            world.setBackground("gameover (2).jpeg");
             Greenfoot.stop();
         }
     }
